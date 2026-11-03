@@ -1,0 +1,9 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="AtkApplication" type="Application" factoryName="Application">
+    <option name="MAIN_CLASS_NAME" value="org.cavalodetroia.atk.application.AtkApplication" />
+    <module name="atk-application" />
+    <method v="2">
+      <option name="Make" enabled="true" />
+    </method>
+  </configuration>
+</component>
